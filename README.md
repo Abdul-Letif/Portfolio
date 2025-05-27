@@ -30,7 +30,7 @@ This dashboard analyzes bookings and customer behavior for a local travel compan
 - Peak vs off-peak performance
 
 **Tools**: Power BI, Excel, DAX  
-🔗 **[View Project](./Ghana-Adventures-Tour-Analytics/README.md)**
+🔗 **[View Project](./Ghana-Adventure-Tour-Analysis/README.md)**
 
 ---
 
