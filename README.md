@@ -20,7 +20,7 @@ A Power BI dashboard for a fictional streaming platform that explores user behav
 
 ---
 
-### 2. ### 🌍 [Ghana Adventure Tour Analysis](./Ghana%20Adventure%20Tour%20Analysis/README.md)
+### 2. [Ghana Adventure Tour Analysis](./Ghana%20Adventure%20Tour%20Analysis/README.md)
 
 This dashboard analyzes bookings and customer behavior for a Tamale-based travel company. Highlights seasonal trends and opportunities to boost customer retention.
 
@@ -30,7 +30,7 @@ This dashboard analyzes bookings and customer behavior for a Tamale-based travel
 - Peak vs off-peak performance
 
 **Tools**: Power BI, Excel, DAX  
-🔗 **[View Project](./Ghana%20Adventure%20Tour%20Analysis/README.md)**
+🔗 **[View Project](./Ghana%20Adventure%20Tour%20Analysis)**
 
 ---
 
