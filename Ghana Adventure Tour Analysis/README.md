@@ -1,4 +1,4 @@
-# Ghana Adventures Tour Analytics
+# Ghana Adventure Tour Analysis
 
 This project analyzes tour booking data for **Ghana Adventures**, a travel and tour company based in Tamale. The goal was to uncover insights into seasonal demand, customer behavior, and underperforming tour packages to guide business strategy.
 
