@@ -20,7 +20,7 @@ A Power BI dashboard for a fictional streaming platform that explores user behav
 
 ---
 
-### 2. [Ghana Adventures Tour Analytics](./Ghana-Adventures-Tour-Analytics)
+### 2. [Ghana Adventures Tour Analysis](./Ghana-Adventures-Tour-Analysis)
 
 This dashboard analyzes bookings and customer behavior for a local travel company. It reveals seasonal trends and opportunities to boost customer retention.
 
