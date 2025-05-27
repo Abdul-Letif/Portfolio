@@ -1,50 +1,45 @@
-# Portfolio
+# Ghana Adventures Tour Analytics
 
-Welcome to my professional portfolio. This repository highlights a collection of real-world and academic projects across business intelligence, analytics, and research.
+This project analyzes tour booking data for **Ghana Adventures**, a travel and tour company based in Tamale. The goal was to uncover insights into seasonal demand, customer behavior, and underperforming tour packages, thereby guiding business strategy.
 
----
+## 📊 Objectives
 
-## 📊 Data Analysis & Business Intelligence Projects
+- Predict booking demand across different seasons
+- Identify top-performing and underperforming tour packages
+- Analyze customer spending patterns (new vs repeat)
+- Provide actionable recommendations to increase repeat business and bookings
 
-### 1. [Streamflix User Insights Dashboard](./Streamflix-User-Analysis)
+## 🔍 Key Insights
 
-A Power BI dashboard for a fictional streaming platform that explores user behavior, subscription types, and genre preferences.
+- **Peak Season (Oct–Jan)** accounts for 55% of bookings.
+- **Repeat customers** spend 37% more on average than new customers.
+Some months, like February and December, underperform despite being travel seasons.
+- Certain tour packages likely underperform due to misalignment with seasonal demand.
 
-**Key Features:**
-- Top 10 movies by rating
-- User demographics by country, age, and device
-- Subscription trends and most popular genres
+## 📈 Data Visualizations
 
-**Tools**: Power BI, Excel, DAX  
-🔗 **[View Project](./Streamflix-User-Analysis/README.md)**
+- Bookings and revenue by month and season
+- Customer counts by repeat status
+- Tour performance flags by month
+- Average spend comparison (repeat vs non-repeat)
+  
 
----
+## 💡 Recommendations
 
-### 2. [Ghana Adventures Tour Analytics](./Ghana-Adventures-Tour-Analytics)
+- Launch loyalty programs and email campaigns to increase repeat customers.
+- Offer targeted off-season promotions for low-demand packages.
+- Adjust tour offerings based on historical booking data.
+- Develop new adventure packages to attract niche travelers during off-peak times.
+- Partner with corporations for team retreats during the low season.
 
-This dashboard analyzes bookings and customer behavior for a local travel company. It reveals seasonal trends and opportunities to boost customer retention.
+## 🛠️ Tools Used
 
-**Key Features:**
-- Bookings by month and season
-- Repeat vs new customer spend
-- Peak vs off-peak performance
+- Power BI (dashboard creation, data modeling)
+- Excel (data cleaning)
+- DAX for custom metrics
 
-**Tools**: Power BI, Excel, DAX  
-🔗 **[View Project](./Ghana-Adventures-Tour-Analytics/README.md)**
-
----
-
-
-
-## 🛠️ Technical Skills
-
-- **Data Analysis**: Power BI, Excel, SQL, Python (Pandas, Matplotlib)
-- **Business Intelligence**: Dashboard development, KPIs, storytelling with data
-- **Research Tools**: SPSS, scientific writing, experimental design
-- **Soft Skills**: Communication, attention to detail, problem solving
+  
 
 ---
 
-
-
-> *Note: All data used in the projects is fictional or anonymized for educational and demonstration purposes.*
+> **Note:** This is a fictional case based on real challenges faced by travel companies. Data was anonymized and used for educational purposes.
