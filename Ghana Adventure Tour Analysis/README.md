@@ -1,6 +1,6 @@
 # Ghana Adventures Tour Analytics
 
-This project analyzes tour booking data for **Ghana Adventures**, a travel and tour company based in Tamale. The goal was to uncover insights into seasonal demand, customer behavior, and underperforming tour packages, thereby guiding business strategy.
+This project analyzes tour booking data for **Ghana Adventures**, a travel and tour company based in Tamale. The goal was to uncover insights into seasonal demand, customer behavior, and underperforming tour packages to guide business strategy.
 
 ## 📊 Objectives
 
@@ -13,7 +13,7 @@ This project analyzes tour booking data for **Ghana Adventures**, a travel and t
 
 - **Peak Season (Oct–Jan)** accounts for 55% of bookings.
 - **Repeat customers** spend 37% more on average than new customers.
-Some months, like February and December, underperform despite being travel seasons.
+- Some months, like February and Decembe,r underperform despite being travel seasons.
 - Certain tour packages likely underperform due to misalignment with seasonal demand.
 
 ## 📈 Data Visualizations
@@ -22,7 +22,8 @@ Some months, like February and December, underperform despite being travel seaso
 - Customer counts by repeat status
 - Tour performance flags by month
 - Average spend comparison (repeat vs non-repeat)
-  
+
+![Sample Dashboard Screenshot](screenshots/ghana-tour-dashboard.png)
 
 ## 💡 Recommendations
 
@@ -38,8 +39,8 @@ Some months, like February and December, underperform despite being travel seaso
 - Excel (data cleaning)
 - DAX for custom metrics
 
-  
 
----
 
 > **Note:** This is a fictional case based on real challenges faced by travel companies. Data was anonymized and used for educational purposes.
+
+ 
