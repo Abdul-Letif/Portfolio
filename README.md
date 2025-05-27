@@ -20,18 +20,17 @@ A Power BI dashboard for a fictional streaming platform that explores user behav
 
 ---
 
-### 2. [Ghana Adventure Tour Analysis](./Ghana-Adventure-Tour-Analysis)
+### 2. [Ghana Adventure Tour Analysis](./Ghana-Adventure-Tour-Analysis/README.md)
 
-This dashboard analyzes bookings and customer behavior for a local travel company. It reveals seasonal trends and opportunities to boost customer retention.
+Analyze bookings and customer behavior for a Tamale-based travel company. Highlights seasonal trends and opportunities to boost customer retention.
 
 **Key Features:**
-- Bookings by month and season
-- Repeat vs new customer spend
+- Bookings by month and season  
+- Repeat vs new customer spend  
 - Peak vs off-peak performance
 
 **Tools**: Power BI, Excel, DAX  
 🔗 **[View Project](./Ghana-Adventure-Tour-Analysis/README.md)**
-
 ---
 
 
