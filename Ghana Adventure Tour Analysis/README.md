@@ -23,8 +23,6 @@ This project analyzes tour booking data for **Ghana Adventures**, a travel and t
 - Tour performance flags by month
 - Average spend comparison (repeat vs non-repeat)
 
-![Sample Dashboard Screenshot](screenshots/ghana-tour-dashboard.png)
-
 ## 💡 Recommendations
 
 - Launch loyalty programs and email campaigns to increase repeat customers.
