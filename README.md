@@ -6,7 +6,36 @@ Welcome to my professional portfolio. This repository highlights a collection of
 
 ## 📊 Data Analysis & Business Intelligence Projects
 
-### 1. [Streamflix User Insights Dashboard](./Streamflix-User-Analysis)
+### 1. [Hospitality Performance Dashboard](./Hospitality)
+
+A two-page Power BI dashboard built with realistic synthetic data from realworldfakedata.com. It provides insights into hotel performance, bookings, and revenue streams across properties.
+
+**Key Features:**
+- Total reservations, revenue, average room rate, and stay duration
+- Reservation status breakdown (completed, no-show, extended, reduced)
+- Booking channels (website, app, travel agent, etc.)
+- Revenue by property, room type, and monthly trends
+
+**Tools**: Power BI, Excel, DAX, realworldfakedata.com  
+🔗 **[View Project](./Hospitality/README.md)**
+
+---
+
+### 2. [Precision Cattle Production Analysis](./Cattle-Production-Analysis)
+
+A Power BI dashboard analyzing the performance of dairy cattle across farms. Built with synthetic data to showcase the application of analytics in livestock farming.
+
+**Key Features:**
+- KPIs: efficiency, milk yield, feed intake, body weight
+- Metric selector to analyze performance by farm, age group, and strain
+- Filters by animal condition
+
+**Tools**: Power BI, Excel, DAX, ChatGPT (synthetic data generation)  
+🔗 **[View Project](./Cattle-Production-Analysis/README.md)**
+
+---
+
+### 3. [Streamflix User Insights Dashboard](./Streamflix-User-Analysis)
 
 A Power BI dashboard for a fictional streaming platform that explores user behavior, subscription types, and genre preferences.
 
@@ -20,22 +49,6 @@ A Power BI dashboard for a fictional streaming platform that explores user behav
 
 ---
 
-### 2. [Ghana Adventure Tour Analysis](./Ghana%20Adventure%20Tour%20Analysis)
-
-This dashboard analyzes bookings and customer behavior for a Tamale-based travel company. Highlights seasonal trends and opportunities to boost customer retention.
-
-**Key Features:**
-- Bookings by month and season  
-- Repeat vs new customer spend  
-- Peak vs off-peak performance
-
-**Tools**: Power BI, Excel, DAX  
-🔗 **[View Project](./Ghana%20Adventure%20Tour%20Analysis/README.md)**
-
----
-
-
-
 ## 🛠️ Technical Skills
 
 - **Data Analysis**: Power BI, Excel, SQL, Python (Pandas, Matplotlib)
@@ -44,7 +57,5 @@ This dashboard analyzes bookings and customer behavior for a Tamale-based travel
 - **Soft Skills**: Communication, attention to detail, problem solving
 
 ---
-
-
 
 > *Note: All data used in the projects is fictional or anonymized for educational and demonstration purposes.*
