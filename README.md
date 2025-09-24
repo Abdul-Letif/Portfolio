@@ -31,7 +31,7 @@ A Power BI dashboard analyzing the performance of dairy cattle across farms. Bui
 - Filters by animal condition
 
 **Tools**: Power BI, Excel, DAX, ChatGPT (synthetic data generation)  
-🔗 **[View Project](./Cattle-Production-Analysis/README.md)**
+🔗 **[View Project](https://github.com/Abdul-Letif/Portfolio/blob/main/Precision%20Cattle%20Production%20Analysis/README.md)**
 
 ---
 
