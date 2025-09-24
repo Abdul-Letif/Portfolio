@@ -21,7 +21,7 @@ A two-page Power BI dashboard built with realistic synthetic data from realworld
 
 ---
 
-### 2. [Precision Cattle Production Analysis](./Cattle-Production-Analysis)
+### 2. [Precision Cattle Production Analysis](https://github.com/Abdul-Letif/Portfolio/tree/main/Precision%20Cattle%20Production%20Analysis)
 
 A Power BI dashboard analyzing the performance of dairy cattle across farms. Built with synthetic data to showcase the application of analytics in livestock farming.
 
