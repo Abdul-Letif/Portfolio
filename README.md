@@ -21,21 +21,7 @@ A two-page Power BI dashboard built with realistic synthetic data from realworld
 
 ---
 
-### 2. [Precision Cattle Production Analysis](https://github.com/Abdul-Letif/Portfolio/tree/main/Precision%20Cattle%20Production%20Analysis)
-
-A Power BI dashboard analyzing the performance of dairy cattle across farms. Built with synthetic data to showcase the application of analytics in livestock farming.
-
-**Key Features:**
-- KPIs: efficiency, milk yield, feed intake, body weight
-- Metric selector to analyze performance by farm, age group, and strain
-- Filters by animal condition
-
-**Tools**: Power BI, Excel, DAX, ChatGPT (synthetic data generation)  
-🔗 **[View Project](https://github.com/Abdul-Letif/Portfolio/blob/main/Precision%20Cattle%20Production%20Analysis/README.md)**
-
----
-
-### 3. [Sales Dashboard](https://github.com/Abdul-Letif/Portfolio/tree/main/Sales%20Dashboard)
+### 2. [Sales Dashboard](https://github.com/Abdul-Letif/Portfolio/tree/main/Sales%20Dashboard)
 
 A two-page Power BI dashboard built with synthetic but realistic sales data to visualize business performance across products, regions, and customer segments. It demonstrates strong BI and data storytelling skills.
 
@@ -48,6 +34,20 @@ A two-page Power BI dashboard built with synthetic but realistic sales data to v
 
 **Tools**: Power BI, Excel, DAX  
 🔗 **[View Project](https://github.com/Abdul-Letif/Portfolio/blob/main/Sales%20Dashboard/README.md)**
+
+---
+
+### 3. [Precision Cattle Production Analysis](https://github.com/Abdul-Letif/Portfolio/tree/main/Precision%20Cattle%20Production%20Analysis)
+
+A Power BI dashboard analyzing the performance of dairy cattle across farms. Built with synthetic data to showcase the application of analytics in livestock farming.
+
+**Key Features:**
+- KPIs: efficiency, milk yield, feed intake, body weight
+- Metric selector to analyze performance by farm, age group, and strain
+- Filters by animal condition
+
+**Tools**: Power BI, Excel, DAX, ChatGPT (synthetic data generation)  
+🔗 **[View Project](https://github.com/Abdul-Letif/Portfolio/blob/main/Precision%20Cattle%20Production%20Analysis/README.md)**
 
 ---
 
