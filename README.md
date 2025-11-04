@@ -35,7 +35,7 @@ A Power BI dashboard analyzing the performance of dairy cattle across farms. Bui
 
 ---
 
-### 3. [Streamflix User Insights Dashboard](./Streamflix-User-Analysis)
+### 3. [Sales Dashboard](https://github.com/Abdul-Letif/Portfolio/tree/main/Sales%20Dashboard)
 
 A two-page Power BI dashboard built with synthetic but realistic sales data to visualize business performance across products, regions, and customer segments. It demonstrates strong BI and data storytelling skills.
 
