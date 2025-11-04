@@ -37,12 +37,14 @@ A Power BI dashboard analyzing the performance of dairy cattle across farms. Bui
 
 ### 3. [Streamflix User Insights Dashboard](./Streamflix-User-Analysis)
 
-A Power BI dashboard for a fictional streaming platform that explores user behavior, subscription types, and genre preferences.
+A two-page Power BI dashboard built with synthetic but realistic sales data to visualize business performance across products, regions, and customer segments. It demonstrates strong BI and data storytelling skills.
 
 **Key Features:**
-- Top 10 movies by rating
-- User demographics by country, age, and device
-- Subscription trends and most popular genres
+- KPIs: Total Sales, Total Units Sold, Total Profit, Average Profit Margin
+- Sales and profit trends by year (2022–2024)
+- Regional and customer segment analysis
+- Top products and sales representatives by performance
+- Monthly sales and profit tracking
 
 **Tools**: Power BI, Excel, DAX  
 🔗 **[View Project](./Streamflix-User-Analysis/README.md)**
