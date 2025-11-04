@@ -47,7 +47,7 @@ A two-page Power BI dashboard built with synthetic but realistic sales data to v
 - Monthly sales and profit tracking
 
 **Tools**: Power BI, Excel, DAX  
-🔗 **[View Project](./Streamflix-User-Analysis/README.md)**
+🔗 **[View Project](https://github.com/Abdul-Letif/Portfolio/blob/main/Sales%20Dashboard/README.md)**
 
 ---
 
